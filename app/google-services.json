@@ -1,0 +1,84 @@
+{
+  "project_info": {
+    "project_number": "366444600459",
+    "project_id": "shoppingmall-2341b",
+    "storage_bucket": "shoppingmall-2341b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366444600459:android:060804e61ecf4f6291488e",
+        "android_client_info": {
+          "package_name": "part5.jjs.shoppingmall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366444600459-otdv2e9ss3confv3bviddmg6tqga2tui.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "part5.jjs.shoppingmall",
+            "certificate_hash": "7bbb441eeda7c17d4df0df667a07226d266e661b"
+          }
+        },
+        {
+          "client_id": "366444600459-e837rhnpthlh2m3uhlb6qhd7ve6jgcan.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKW0T6PMQpUQINAJijImBPTR7E2g0Gbv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366444600459-e837rhnpthlh2m3uhlb6qhd7ve6jgcan.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366444600459:android:974e062bff558ad991488e",
+        "android_client_info": {
+          "package_name": "part5.jjs.shoppingmall.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366444600459-409is4ic074b117oofik8d08i0k5ghjl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "part5.jjs.shoppingmall.dev",
+            "certificate_hash": "7bbb441eeda7c17d4df0df667a07226d266e661b"
+          }
+        },
+        {
+          "client_id": "366444600459-e837rhnpthlh2m3uhlb6qhd7ve6jgcan.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKW0T6PMQpUQINAJijImBPTR7E2g0Gbv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366444600459-e837rhnpthlh2m3uhlb6qhd7ve6jgcan.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
